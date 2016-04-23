@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\pretzelTime\pretzelTime\bin\Debug\pretzelTime.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\pretzelTime\pretzelTime\bin\Debug\pretzelTime.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\pretzelTime\pretzelTime\bin\Debug\pretzelTime.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\pretzelTime\pretzelTime\obj\Debug\pretzelTime.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\pretzelTime\pretzelTime\obj\Debug\pretzelTime.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\pretzelTime\pretzelTime\obj\Debug\pretzelTime.pdb
